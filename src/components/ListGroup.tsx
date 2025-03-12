@@ -1,7 +1,14 @@
 import { useState } from "react";
 
 function ListGroup() {
-  let items = ["New York", "San Francisco", "Tokyo", "London", "Paris"];
+  let items = [
+    "New York",
+    "San Francisco",
+    "Tokyo",
+    "London",
+    "Paris",
+    "Libreville",
+  ];
   const [selectedIndex, setSelectedIndex] = useState(-1); //Hook
 
   return (
