@@ -1,0 +1,13 @@
+-npm create vite@latest ou une version précise de "vite"
+
+-for question "y"
+
+-nommer le projet
+
+-choisir le framework "React" par exemple
+
+-choisir le variant "TypeScript" par exemple
+
+- rentrer dans le projet créer et taper "npm i" pour installer l'environnement 
+
+- et pour finir lancer l'application "npm run dev"
